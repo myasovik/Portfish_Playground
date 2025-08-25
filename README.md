@@ -3,7 +3,7 @@
 This repository contains the source code for the chess engine integration in **Chess Game**, as required by the GNU General Public License v3 (GPLv3).
 
 ## License
-The code in this repository, including the modified Portfish engine, is licensed under the **GNU GPLv3**. The full license text is provided in the `Licenses/` folder.
+The code in this repository, including the modified Portfish engine, is licensed under the **GNU GPLv3**. The full license text is provided in the `Root` folder.
 
 ## Overview
 This is a minimal Unity project that demonstrates how **Chess Game** integrates with the Portfish chess engine. It includes:

@@ -1,4 +1,4 @@
-# Chess Adventure - Portfish Engine Integration Source
+# Chess Game - Portfish Engine Integration Source
 
 This repository contains the source code for the chess engine integration in **Chess Game**, as required by the GNU General Public License v3 (GPLv3).
 
